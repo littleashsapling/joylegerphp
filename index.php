@@ -1,10 +1,15 @@
 <html>
-    <head>
-    <title>My first PHP Website</title>
-    </head>
-    <body>
-        <?php
+
+<head>
+    <title>Kweh!</title>
+</head>
+
+<body>
+    <?php
             echo "<p>Hello World!</p>";
         ?>
-    </body>
+    <a href="login.php"> Click here to login <br />
+        <a href="register.php"> Click here to register <br />
+</body>
+
 </html>
